@@ -1,0 +1,46 @@
+[
+    {
+        "✈️STATE" :"KARNATAKA",
+        "➢FAMOUS_FOR":"primarily famous for its rich heritage and beautiful monuments and dynasties",
+        "➢LANGUAGE":"kannada is the regional language",
+        "➢FOOD":"benne dosa  ragi mudde  neer dose  mangalore buns and many other luscious foods",
+        "➢BASIC_REGIONAL_WORDS":"how r u-hegidiya (ನೀನು ಹೇಗಿದ್ದಿಯಾ) there-alli(ಅಲ್ಲಿ) here-illi (ಇಲ್ಲಿ)my name is-nanna hesaru "
+    },
+    {
+        "✈️STATE" :"TAMILNADU",
+        "➢FAMOUS_FOR":"this is state is famous for temples and arcitecture carnaic music and classical dance",
+        "➢LANGUAGE":"tamil",
+        "➢FOOD":"famous for idli and sambar  chicken chettinand  banana bonda and many other dishes",
+        "➢BASIC_REGIONAL_WORDS":"how r u-epadi irukenga (எப்படி இருக்கீங்க) what s ur name-unga peru enna(உன் பெயர் என்ன)"
+    },
+    {
+        "✈️STATE" :"TELANGANA",
+        "➢FAMOUS_FOR":"its renowned historical structures and local streetsand food charminar and pearls",
+        "➢LANGUAGE":"telugu",
+        "➢FOOD":"famous for dum biriyani osmania and karachi biscuits ",
+        "➢BASIC_REGIONAL_WORDS":"how r u-ela unnav(ఎలా ఉన్నావ్) hello-namaskaram(నమస్కారం)"
+        },
+
+        {
+            "✈️STATE" :"KERALA",
+            "➢FAMOUS_FOR":"kerala is famous especially or its ecotourism initiatives and beautiful backwaters",
+            "➢LANGUAGE":"malayalam",
+            "➢FOOD":"puttu-kadala  idiyappam-gg curry  coconut dishes and sea food",
+            "➢BASIC_REGIONAL_WORDS":"how much is this?-ithinu entha villa  what s ur name-nine perenthaau"
+        },
+        {
+            "✈️STATE" :"GOA",
+            "➢FAMOUS_FOR":"this is state is famous for churches and beaches",
+            "➢LANGUAGE":"konkani",
+            "➢FOOD":"goa fish curry shark ambot feijoada chiken cafreal and many other dishes",
+            "➢BASIC_REGIONAL_WORDS":"hi -Deu boro dis dium  what is your name-Tuchem naum kitay?"
+        },
+        {
+            "✈️STATE" :"ANDAMAN",
+            "➢FAMOUS_FOR":"famous for islands and white sandy beaches with sparkling blue water",
+            "➢LANGUAGE":"hindi is official language and bengali is  most spoken language",
+            "➢FOOD":"fish curry  amritsari kulcha griled lobsters coconutprawn cury  ",
+            "➢BASIC_REGIONAL_WORDS":"how r u-kaise ho app  hello-namaskar"
+            }
+
+]
